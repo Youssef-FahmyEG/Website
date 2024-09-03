@@ -33,7 +33,7 @@ I am a data analyst graduated with a bachelor degree in Accounting, I firmly bel
           <div className="flex flex-col gap-2">
             <div className="flex gap-2">
               <MapPin className="stroke-gray-600" />
-              <Typography>cairo, Egypt</Typography>
+              <Typography>Cairo, Egypt</Typography>
             </div>
 
             <div className="flex items-center gap-2">
