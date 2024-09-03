@@ -30,7 +30,7 @@ const WorkSection = () => {
         <label htmlFor="filter">Filter by Type: </label>
         <select id="filter" value={selectedType} onChange={handleFilterChange}>
           <option value="All">All</option>
-          <option value="powerpi">powerpi</option>
+          <option value="Power BI">Power BI</option>
           <option value="Looker">Looker</option>
           <option value="Tableau">Tableau</option>
           <option value="Excel">Excel</option>
