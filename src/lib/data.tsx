@@ -192,7 +192,7 @@ export const PROJECTS: ProjectDetails[] = [
       
     url: 'https://drive.google.com/file/d/1XrEzvtWwXkQr0PzrktUc4lVMjn90iAbM/view?usp=drive_link',
     previewImage: Project1,
-    type:"powerpi",
+    type:"PowerBI",
     technologies: [
       'Power BI ',
       'Dax',
@@ -206,7 +206,7 @@ export const PROJECTS: ProjectDetails[] = [
       'I leveraged advanced data visualization techniques with Power BI to uncover key trends and metrics. Power Query enabled data cleaning and transformation, while DAX allowed for complex calculations and insightful measures. Incorporating Key Performance Indicators (KPIs) provided valuable insights for strategic decision-making.Steps applied in the project:( Business Questions for problem-solving - EDA ( Exploratory Data Analysis) - Cleaning and preparing data using power query - After cleaning data, using DAX to create relations for data modeling - Create some KPIs using DAX - Build a Dynamic Dashboard to show insights )I made this dashboard to show the most sold and the worst cars, Total sales compared to the Previous year, regions in the USA where the company sold more cars, and recommendations to increase sales in the largest and lowest cities, How were the cars sold? and more...List of cars : 1- McLaren P1 2- Jaguar F-Type 3- Porsche C4S 4- BMW X6 5- Mercedes-Benz GLE Coupe 6- Honda NSX 7- Rolls-Royce GM V8 8- BMW i8 9- Chevrolet Corvette 10- Buick Riviera 11- Mercedes-Benz S-classCurrent year sales = 746K compared to Previous year sales = 614K with Growth Rate about 21%The column chart shows November is the highest month of sales but February is the lowest month of salesSo I recommend more marketing campaigns before the start of this month next year. The donut chart indicates that the West USA dominates the sales. The project shows sales in the current year compared to the previous year and the growth rate across America. Sales include the cars themselves, maintenance services, and other services such as accessories and arts. Cars sold directly, by broker, Pre-booking or any other selling technique. During the analysis, I found that the Rolls-Royce GM V8 is the most sold car and the Chevrolet Corvette is the least.',
     url: 'https://drive.google.com/file/d/1WtbxT8T49JFveosYry0m5kfG3P0ZBlrb/view?usp=drive_link',
     previewImage: Project2,
-    type:"powerpi",
+    type:"PowerBI",
     technologies: [
       'Power BI ',
       'Dax',
@@ -220,7 +220,7 @@ export const PROJECTS: ProjectDetails[] = [
       'The dashboards reveal a significant decline in overall business performance compared to the previous year. Sales have dropped by 33% to $1.45M, while costs decreased by 29% to $1.35M, and quantity sold fell by 36% to 51K units. The top product by sales was "Côte de Blaye" with $164K, but the worst-performing product was "Chocolade," with only 1,759 units sold. The "Beverages" category led in both sales and orders, contributing 21.36% of sales and 24.65% of orders. Germany was the top country, accounting for 15% of all orders, with 121 orders in total. Top customers include "Horst Kloss" and "Jose Pavarotti," with sales of $122K and $121K, respectively. "Cunewalde" and "Boise" were the top cities by sales, each contributing over $120K. The analysis also shows a noticeable decline in orders, down by 34% to 830, with slightly more orders placed on weekends (422) than on business days (408). The best-performing employee was "Margaret," with 156 orders. Additionally, 8 products were discontinued, leaving 69 still active. The data indicates areas for potential growth by focusing on high-performing customers, cities, and products despite the overall downturn.',
     url: 'https://drive.google.com/file/d/1Cocwz6lctd5x8NHVJSX_xr8gWayeF_i-/view?usp=drive_link',
     previewImage: Project3,
-    type:"powerpi",
+    type:"PowerBI",
     technologies: [
       'Power BI ',
       'Dax',
@@ -233,7 +233,7 @@ export const PROJECTS: ProjectDetails[] = [
     description:'The dashboard provides an overview of Lionel Messi\'s career statistics and personal details:Personal Information: Messi was born on June 24, 1987, making him 36 years old. He holds Argentinian citizenship and stands 1.70 meters tall, weighing 72 kilograms. He plays as a Right Winger (RW).Career Achievements: Messi has made 889 appearances, primarily in La Liga, which is his most-played competition. Over his career, he has scored 721 goals and provided 344 assists.Market Value: As of now, his market value is estimated at €35.00 million.Trophies: The dashboard highlights Messi\'/s extensive trophy collection, including prestigious awards and cups, symbolized by the icons displayed at the bottom.',
     url: '',
     previewImage: Project4,
-    type:"powerpi",
+    type:"PowerBI",
     technologies: [
       'Power BI ',
       'Dax',
@@ -260,7 +260,7 @@ export const PROJECTS: ProjectDetails[] = [
     type:"Tableau",
     technologies: [
       'Tableau ',
-      'Dax',
+      'LOD',
       'Data Modeling',
       'Data Visualization',
     ],
@@ -270,10 +270,10 @@ export const PROJECTS: ProjectDetails[] = [
     description:'The sales dashboard reveals a total revenue of $899.9 million, with New York being the most successful state. Men\'s street footwear emerged as the top-selling product category, reflecting consumer preference. The majority of sales, $356.64 million, came from online transactions, surpassing both in-store and outlet sales. July was the most profitable month, generating $95 million, indicating a peak in consumer spending during this period. Male customers accounted for the largest share of units sold, with 939,000 units purchased.In terms of profit, the dashboard shows a total of $332.1 million, with 2,478,861 units sold. West Gear led the retail segment with $243 million in sales, followed by Foot Locker at $220 million. The Western region was the most lucrative, contributing $270 million to the overall sales. The dashboard also highlights seasonal and regional differences in sales, with online shopping and men\'s footwear consistently driving revenue. These insights suggest targeted strategies could further enhance sales in high-performing regions and product categories, particularly during peak months.',
     url: 'https://drive.google.com/file/d/1qM-d6tHtKwwpoI6OdCAKKpLY4SVK9W3h/view?usp=drive_link',
     previewImage: Project5,
-    type:"powerpi",
+    type:"PowerBI",
     technologies: [
-      'powerpi ',
-      'LOD',
+      'PowerBI ',
+      'DAX',
       'Data Modelling',
       'Data Visualization',
     ],
@@ -285,8 +285,9 @@ export const PROJECTS: ProjectDetails[] = [
     previewImage: Project8,
     type:"Excel",
     technologies: [
-      'Microsoft Excel PivotTable ',
+      'Microsoft Excel',
       'Power Query',
+      'PivotTable',
       'Power Pivot',
       'DAX',
       'Data Visualization',
