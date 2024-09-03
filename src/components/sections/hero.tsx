@@ -20,7 +20,7 @@ const HeroSection = () => {
             </Typography>
             <Typography>
              
-I am a data analyst graduated with a bachelor degree in Accounting, I firmly believe that data can be used to solve humanization issues and making right decisions will make the world better.
+I am a data analyst who graduated with a bachelor's degree in Accounting, I firmly believe that data can be used to solve humanization issues and that making the right decisions will make the world better.
 
             </Typography>
             <p className='font-bold text-center'>
