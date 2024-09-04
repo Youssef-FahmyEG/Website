@@ -143,7 +143,7 @@ export const EXPERIENCES: ExperienceDetails[] = [
     startDate: new Date(2024, 7),
     currentlyWorkHere: true,
     summary: [
-      'Using Python libraries (such as Pandas, NumPy and Matplotlib) to analyze data sets, extract insights, and prepare reports for decision-making purposes.',
+      'Using Python libraries(Pandas, NumPy, Matplotlib and Seaborn) to analyze data sets, extract insights, and prepare reports for decision-making purposes.',
       'Creating interactive dashboards and visualizations in Excel and Power BI to present data trends and insights effectively.',
       'Applying analytical skills and critical thinking to solve technical challenges and optimize processes.',
     ],
@@ -188,14 +188,14 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: 'Financial Analysis',
     description:
-        'I utilized Power BI for advanced data visualization, leveraging Power Query for data cleaning and transformation and DAX for complex calculations and insightful measures. The project focused on identifying key trends and metrics through the creation of Key Performance Indicators (KPIs) that aid strategic decision-making.Steps Applied:Define a business question to solve.Conduct Exploratory Data Analysis (EDA).Clean and prepare data using Power Query.Use DAX to establish relationships for data modeling.Create KPIs using DAX.Build a dynamic dashboard to visualize insights.Key Performance Indicators (KPIs):Total Sales: $1,122K Total Cost: $728K Total Quantity: 3,838 Total Profit: $394K Total Profit in Latest Year: $91K Total Profit in Previous Year: $102K Number of Products: 765 Number of Customers: 366 Most Selling Product: Lexmark Printer Worst-Selling Product: Prang Sticks Product Categories: 3 (Technology is the best-selling; Office Supplies is the worst) Sub-Categories: 17 (Machines are the best-selling; Fasteners are the worst) This comprehensive approach enabled the discovery of actionable insights, facilitating data-driven decision-making.',
+        'I utilized Power BI for advanced data visualization, leveraging Power Query for data cleaning and transformation and DAX for complex calculations and insightful measures. The project focused on identifying key trends and metrics through the creation of Key Performance Indicators (KPIs) that aid strategic decision-making. Steps Applied: Define a business question to solve. Conduct Exploratory Data Analysis (EDA). Clean and prepare data using Power Query. Use DAX to establish relationships for data modeling. Create KPIs using DAX. Build a dynamic dashboard to visualize insights. Key Performance Indicators (KPIs): Total Sales: $1,122K, Total Cost: $728K, Total Quantity: 3,838, Total Profit: $394K, Total Profit in Latest Year: $91K, Total Profit in Previous Year: $102K, Number of Products: 765, Number of Customers: 366, Most Selling Product: Lexmark Printer, Worst-Selling Product: Prang Sticks, Product Categories: 3 (Technology is the best-selling, Office Supplies is the worst), Sub-Categories: 17 (Machines are the best-selling, Fasteners are the worst). This comprehensive approach enabled the discovery of actionable insights, facilitating data-driven decision-making.',
       
     url: 'https://drive.google.com/file/d/1XrEzvtWwXkQr0PzrktUc4lVMjn90iAbM/view?usp=drive_link',
     previewImage: Project1,
-    type:"PowerBI",
+    type:"Power BI",
     technologies: [
       'Power BI ',
-      'Dax',
+      'DAX',
       'Data Modeling',
       'Data Visualization',
     ],
@@ -203,13 +203,13 @@ export const PROJECTS: ProjectDetails[] = [
   {
     name: 'Car Analysis',
     description:
-      'I leveraged advanced data visualization techniques with Power BI to uncover key trends and metrics. Power Query enabled data cleaning and transformation, while DAX allowed for complex calculations and insightful measures. Incorporating Key Performance Indicators (KPIs) provided valuable insights for strategic decision-making.Steps applied in the project:( Business Questions for problem-solving - EDA ( Exploratory Data Analysis) - Cleaning and preparing data using power query - After cleaning data, using DAX to create relations for data modeling - Create some KPIs using DAX - Build a Dynamic Dashboard to show insights )I made this dashboard to show the most sold and the worst cars, Total sales compared to the Previous year, regions in the USA where the company sold more cars, and recommendations to increase sales in the largest and lowest cities, How were the cars sold? and more...List of cars : 1- McLaren P1 2- Jaguar F-Type 3- Porsche C4S 4- BMW X6 5- Mercedes-Benz GLE Coupe 6- Honda NSX 7- Rolls-Royce GM V8 8- BMW i8 9- Chevrolet Corvette 10- Buick Riviera 11- Mercedes-Benz S-classCurrent year sales = 746K compared to Previous year sales = 614K with Growth Rate about 21%The column chart shows November is the highest month of sales but February is the lowest month of salesSo I recommend more marketing campaigns before the start of this month next year. The donut chart indicates that the West USA dominates the sales. The project shows sales in the current year compared to the previous year and the growth rate across America. Sales include the cars themselves, maintenance services, and other services such as accessories and arts. Cars sold directly, by broker, Pre-booking or any other selling technique. During the analysis, I found that the Rolls-Royce GM V8 is the most sold car and the Chevrolet Corvette is the least.',
+      'I leveraged advanced data visualization techniques with Power BI to uncover key trends and metrics. Power Query enabled data cleaning and transformation, while DAX allowed for complex calculations and insightful measures. Incorporating Key Performance Indicators (KPIs) provided valuable insights for strategic decision-making. Steps applied in the project:( Business Questions for problem-solving - EDA ( Exploratory Data Analysis) - Cleaning and preparing data using power query - After cleaning data, using DAX to create relations for data modeling - Create some KPIs using DAX - Build a Dynamic Dashboard to show insights )I made this dashboard to show the most sold and the worst cars, Total sales compared to the Previous year, regions in the USA where the company sold more cars, and recommendations to increase sales in the largest and lowest cities, How were the cars sold? and more...List of cars: 1- McLaren P1 2- Jaguar F-Type 3- Porsche C4S 4- BMW X6 5- Mercedes-Benz GLE Coupe 6- Honda NSX 7- Rolls-Royce GM V8 8- BMW i8 9- Chevrolet Corvette 10- Buick Riviera 11- Mercedes-Benz S-classCurrent year sales = 746K compared to Previous year sales = 614K with Growth Rate about 21%The column chart shows November is the highest month of sales but February is the lowest month of sales so I recommend more marketing campaigns before the start of this month next year. The donut chart indicates that the West USA dominates the sales. The project shows sales in the current year compared to the previous year and the growth rate across America. Sales include the cars themselves, maintenance services, and other services such as accessories and arts. Cars are sold directly, by broker, Pre-booking or any other selling technique. During the analysis, I found that the Rolls-Royce GM V8 is the most sold car and the Chevrolet Corvette is the least.',
     url: 'https://drive.google.com/file/d/1WtbxT8T49JFveosYry0m5kfG3P0ZBlrb/view?usp=drive_link',
     previewImage: Project2,
-    type:"PowerBI",
+    type:"Power BI",
     technologies: [
       'Power BI ',
-      'Dax',
+      'DAX',
       'Data Modeling',
       'Data Visualization',
     ],
@@ -220,23 +220,23 @@ export const PROJECTS: ProjectDetails[] = [
       'The dashboards reveal a significant decline in overall business performance compared to the previous year. Sales have dropped by 33% to $1.45M, while costs decreased by 29% to $1.35M, and quantity sold fell by 36% to 51K units. The top product by sales was "Côte de Blaye" with $164K, but the worst-performing product was "Chocolade," with only 1,759 units sold. The "Beverages" category led in both sales and orders, contributing 21.36% of sales and 24.65% of orders. Germany was the top country, accounting for 15% of all orders, with 121 orders in total. Top customers include "Horst Kloss" and "Jose Pavarotti," with sales of $122K and $121K, respectively. "Cunewalde" and "Boise" were the top cities by sales, each contributing over $120K. The analysis also shows a noticeable decline in orders, down by 34% to 830, with slightly more orders placed on weekends (422) than on business days (408). The best-performing employee was "Margaret," with 156 orders. Additionally, 8 products were discontinued, leaving 69 still active. The data indicates areas for potential growth by focusing on high-performing customers, cities, and products despite the overall downturn.',
     url: 'https://drive.google.com/file/d/1Cocwz6lctd5x8NHVJSX_xr8gWayeF_i-/view?usp=drive_link',
     previewImage: Project3,
-    type:"PowerBI",
+    type:"Power BI",
     technologies: [
       'Power BI ',
-      'Dax',
+      'DAX',
       'Data Modeling',
       'Data Visualization',
     ],
   },
   {
     name: 'Lionel Messi\'s Career',
-    description:'The dashboard provides an overview of Lionel Messi\'s career statistics and personal details:Personal Information: Messi was born on June 24, 1987, making him 36 years old. He holds Argentinian citizenship and stands 1.70 meters tall, weighing 72 kilograms. He plays as a Right Winger (RW).Career Achievements: Messi has made 889 appearances, primarily in La Liga, which is his most-played competition. Over his career, he has scored 721 goals and provided 344 assists.Market Value: As of now, his market value is estimated at €35.00 million.Trophies: The dashboard highlights Messi\'/s extensive trophy collection, including prestigious awards and cups, symbolized by the icons displayed at the bottom.',
+    description:'The dashboard provides an overview of Lionel Messi\'s career statistics and personal details: Personal Information: Messi was born on June 24, 1987, making him 36 years old. He holds Argentinian citizenship and stands 1.70 meters tall, weighing 72 kilograms. He plays as a Right Winger (RW).Career Achievements: Messi has made 889 appearances, primarily in La Liga, which is his most-played competition. Over his career, he has scored 721 goals and provided 344 assists. Market Value: As of now, his market value is estimated at €35.00 million.Trophies: The dashboard highlights Messi\'s extensive trophy collection, including prestigious awards and cups, symbolized by the icons displayed at the bottom.',
     url: '',
     previewImage: Project4,
-    type:"PowerBI",
+    type:"Power BI",
     technologies: [
       'Power BI ',
-      'Dax',
+      'DAX',
       'Data Modeling',
       'Data Visualization',
     ],
@@ -267,12 +267,12 @@ export const PROJECTS: ProjectDetails[] = [
   },
   {
     name: 'Adidas Dashboard',
-    description:'The sales dashboard reveals a total revenue of $899.9 million, with New York being the most successful state. Men\'s street footwear emerged as the top-selling product category, reflecting consumer preference. The majority of sales, $356.64 million, came from online transactions, surpassing both in-store and outlet sales. July was the most profitable month, generating $95 million, indicating a peak in consumer spending during this period. Male customers accounted for the largest share of units sold, with 939,000 units purchased.In terms of profit, the dashboard shows a total of $332.1 million, with 2,478,861 units sold. West Gear led the retail segment with $243 million in sales, followed by Foot Locker at $220 million. The Western region was the most lucrative, contributing $270 million to the overall sales. The dashboard also highlights seasonal and regional differences in sales, with online shopping and men\'s footwear consistently driving revenue. These insights suggest targeted strategies could further enhance sales in high-performing regions and product categories, particularly during peak months.',
+    description:'The sales dashboard reveals a total revenue of $899.9 million, with New York being the most successful state. Men\'s street footwear emerged as the top-selling product category, reflecting consumer preference. The majority of sales, $356.64 million, came from online transactions, surpassing both in-store and outlet sales. July was the most profitable month, generating $95 million, indicating a peak in consumer spending during this period. Male customers accounted for the largest share of units sold, with 939,000 units purchased. In terms of profit, the dashboard shows a total of $332.1 million, with 2,478,861 units sold. West Gear led the retail segment with $243 million in sales, followed by Foot Locker at $220 million. The Western region was the most lucrative, contributing $270 million to the overall sales. The dashboard also highlights seasonal and regional differences in sales, with online shopping and men\'s footwear consistently driving revenue. These insights suggest targeted strategies could further enhance sales in high-performing regions and product categories, particularly during peak months.',
     url: 'https://drive.google.com/file/d/1qM-d6tHtKwwpoI6OdCAKKpLY4SVK9W3h/view?usp=drive_link',
     previewImage: Project5,
-    type:"PowerBI",
+    type:"Power BI",
     technologies: [
-      'PowerBI ',
+      'Power BI ',
       'DAX',
       'Data Modelling',
       'Data Visualization',
@@ -280,7 +280,7 @@ export const PROJECTS: ProjectDetails[] = [
   },
   {
     name: 'Restaurant Orders Dashboard',
-    description:'The dashboard provides a detailed analysis of a restaurant\'s total sales, segmented by product type, time, region, payment method, and cuisine. The total sales amount to $160,281, with Basic products contributing 64.04% ($102,650) and Premium products making up 35.96% ($57,631). Sales performance is categorized by weekdays and weekends, highlighting the highest sales for specific items like Dolo and White Sauce, which indicate customer preferences. Payment methods are also analyzed, showing that 37% of sales are through credit cards on delivery ($45,674), 34% are cash on delivery ($54,581), and 28% via direct credit card payment ($60,026). The dashboard further breaks down total sales by cuisine type, with European cuisine accounting for 31.52%, followed by Middle Eastern at 29.87%, Arabian at 18.95%, Asian at 13.47%, and African at 7.12%, reflecting the diverse culinary preferences of customers. Regional sales distribution is presented on a world map, where Europe leads with the highest sales percentages over multiple years, while Africa shows a significant decrease in 2018. The restaurant has achieved 65% of its sales target, indicating room for growth and opportunities to enhance performance. Total sales by rush hours reveal peak times during the morning and evening, particularly around 11 AM and 8 PM, suggesting strategic planning for resource allocation during these periods. The dashboard also presents yearly sales trends from 2014 to 2018, showing fluctuating performance across different regions, emphasizing the need for region-specific strategies. Additional key metrics include a total quantity of 1,449 orders, an average delivery time of 30.20 minutes, and an average customer rating of 3, indicating a moderate level of customer satisfaction that could be improved. The visual representation of data, such as bar charts, pie charts, and geographical maps, provides a comprehensive overview for strategic decision-making.',
+    description:'The dashboard provides a detailed analysis of a restaurant\'s total sales, segmented by product type, time, region, payment method, and cuisine. The total sales amount to $160,281, with Basic products contributing 64.04% ($102,650) and Premium products making up 35.96% ($57,631). Sales performance is categorized by weekdays and weekends, highlighting the highest sales for specific items like Dolo and White Sauce, which indicate customer preferences. Payment methods are also analyzed, showing that 37% of sales are through credit cards on delivery ($45,674), 34% are cash on delivery ($54,581), and 28% via direct credit card payment ($60,026). The dashboard further breaks down total sales by cuisine type, with European cuisine accounting for 31.52%, followed by Middle Eastern at 29.87%, Arabian at 18.95%, Asian at 13.47%, and African at 7.12%, reflecting the diverse culinary preferences of customers. Regional sales distribution is presented on a world map, where Europe leads with the highest sales percentages over multiple years, while Africa shows a significant decrease in 2018. The restaurant has achieved 65% of its sales target, indicating room for growth and opportunities to enhance performance. Total sales by rush hours reveal peak times during the morning and evening, particularly around 11 AM and 8 PM, suggesting strategic planning for resource allocation during these periods. The dashboard also presents yearly sales trends from 2014 to 2018, showing fluctuating performance across different regions, and emphasizing the need for region-specific strategies. Additional key metrics include a total quantity of 1,449 orders, an average delivery time of 30.20 minutes, and an average customer rating of 3, indicating a moderate level of customer satisfaction that could be improved. The visual representation of data, such as bar charts, pie charts, and geographical maps, provides a comprehensive overview for strategic decision-making.',
     url: 'https://drive.google.com/file/d/1idH008b3QdtIsyZ-opmuOqeYR1CB34mM/view?usp=drive_link',
     previewImage: Project8,
     type:"Excel",
