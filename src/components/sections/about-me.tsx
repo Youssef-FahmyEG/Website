@@ -35,7 +35,7 @@ const AboutMeSection = () => {
           </Typography>
           <Typography>
           Hi, my name is Youssef.
-During university, I had internships in the data field. I enjoyed what I did, but it did not feel right for me. Eventually, I began to study the data analysis track after I heard my brother and I met Data Analysts and scientists talk about it . Finding out what they did changed the trajectory of my career. 
+During university, I had internships in the data field. I enjoyed what I did, but it did not feel right for me. Eventually, I began to study the data analysis track after I heard my brother and I met Data Analysts and scientists talk about it. Finding out what they did changed the trajectory of my career. 
             </Typography>
           <Typography>
             They built reports and dashboards which amazed me. They used modern tools and How they trained machines how to mimic human beings. I love all that and I want to make similar. learned how much a career in data could earn was the icing on the cake. I was hooked. I began relentlessly studying Excel, SQL, Tableau, Power BI, etc.
