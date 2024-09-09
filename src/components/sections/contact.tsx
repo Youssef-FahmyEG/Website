@@ -12,10 +12,9 @@ import Container from '@/components/layout/container';
 import useWindowSize from '@/hooks/use-window-size';
 import { copyTextToClipboard } from '@/lib/utils';
 
-let email = 'yousseffahmy375@gmail.com';
-let phone = '+20 01011540114';
+let email = 'yousseffahmy375@gmail.com'
 
-type CopyValue = 'email' | 'phone';
+type CopyValue = 'email';
 
 const ContactSection = () => {
   const { width } = useWindowSize();
