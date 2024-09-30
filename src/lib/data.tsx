@@ -25,6 +25,7 @@ import Project5 from '/public/images/project5.png';
 import Project7 from '/public/images/project7.png';
 import Project6 from '/public/images/project6.png';
 import Project8 from '/public/images/project8.png';
+import Project9 from '/public/images/project9.png';
 
 import cer1 from '/public/images/5956076057444598627.jpg';
 import cer2 from '/public/images/5956076057444598628.jpg';
@@ -249,6 +250,19 @@ export const PROJECTS: ProjectDetails[] = [
     type:"Looker",
     technologies: [
       'Looker ',
+      'Data Visualization',
+    ],
+  },
+  {
+    name: 'Hotel Performance',
+    description:'The dashboard provides a comprehensive analysis of hotel and resort performance, highlighting key operational metrics and offering actionable recommendations. Key Insights: Total Bookings: 87K, Cancellation Rate: 27.49%, Average Lead Time: 79.89 days, Total Special Requests: 61K, Bookings by Hotel Type: City Hotel: 53K (61.13%), Resort: 34K (38.87%), Cancellation Rate by Month: Highest: January (38.49%) and October (36.31%), Lowest: March (18.40%), Lead Time by Segment: Groups: 148 days, Offline TA/TO: 106 days, Online TA: 80 days, Direct: 49 days, Corporate: 16 days. Recommendations for Improvement: Cancellation Rate: Analyze January and October customer feedback, Implement flexible policies and monitor competitors’ promotions, Assess cancellation trends between city and resort hotels. Lead Time Optimization: Automate bookings for Groups and Offline TA/TO, Introduce early booking incentives to streamline planning, Upsell short lead-time segments like Corporate and Direct. Hotel Type Performance: Promote Resort Hotels with seasonal offers and packages, Leverage City Hotels' success through loyalty programs and corporate partnerships. Market Segment Strategies: Tailor group-specific offers and simplify the group booking process, Strengthen relationships with Online/Offline TA/TO agents and enhance direct booking perks.'
+,
+    url: 'https://drive.google.com/file/d/1ogHdpJdff0JJnjDmc2_DReMmaxpNCeqm/view?usp=sharing',
+    previewImage: Project9,
+    type:"Power BI",
+    technologies: [
+      'Power BI',
+      'DAX',
       'Data Visualization',
     ],
   },
