@@ -26,6 +26,7 @@ import Project7 from '/public/images/project7.png';
 import Project6 from '/public/images/project6.png';
 import Project8 from '/public/images/project8.png';
 import Project9 from '/public/images/project9.png';
+import Project10 from '/public/images/project10.png';
 
 import cer1 from '/public/images/5956076057444598627.jpg';
 import cer2 from '/public/images/5956076057444598628.jpg';
@@ -250,6 +251,18 @@ export const PROJECTS: ProjectDetails[] = [
     type:"Looker",
     technologies: [
       'Looker ',
+      'Data Visualization',
+    ],
+  },
+  {
+    name: 'Global Causes of Death',
+    description:'',
+    url: 'https://drive.google.com/file/d/1fkqVb8CYoYsgBCJWriJMmgv2cBS2qUIY/view?usp=sharing',
+    previewImage: Project10,
+    type:"Power BI",
+    technologies: [
+      'Power BI',
+      'DAX',
       'Data Visualization',
     ],
   },
