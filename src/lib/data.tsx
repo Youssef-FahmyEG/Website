@@ -33,6 +33,9 @@ import cer2 from '/public/images/5956076057444598628.jpg';
 import cer3 from '/public/images/5956076057444598629.jpg';
 import cer4 from '/public/images/5956076057444598630.jpg';
 import cer5 from '/public/images/5956076057444598631.jpg';
+import cer6 from '/public/images/5956076057444598632.jpg';
+import cer7 from '/public/images/5956076057444598633.jpg';
+
 
 import {
   ExperienceDetails,
