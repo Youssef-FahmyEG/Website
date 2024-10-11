@@ -345,4 +345,12 @@ export const TESTIMONIALS: TestimonialDetails[] = [
     
     personAvatar: cer5,
     },
+  {
+    
+    personAvatar: cer6,
+    },
+  {
+    
+    personAvatar: cer7,
+    },
 ];
