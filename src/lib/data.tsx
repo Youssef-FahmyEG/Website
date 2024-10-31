@@ -259,7 +259,7 @@ export const PROJECTS: ProjectDetails[] = [
   },
   {
     name: 'Global Causes of Death',
-    description:'',
+    description:'This Global Death dashboard displays death statistics from 1990 to 2019. The total global deaths amount to 1.468 billion, with China (265M), India (238M), and the United States (71M) leading in death numbers. There are 31 causes of death tracked, with the top five being cardiovascular diseases, chronic respiratory diseases, lower respiratory infections, neonatal disorders, and neoplasms. Death trends show a rising pattern over time. Asia accounts for the highest total deaths by continent (782.7M), followed by Africa (257.85M) and Europe (179.49M).',
     url: 'https://drive.google.com/file/d/1fkqVb8CYoYsgBCJWriJMmgv2cBS2qUIY/view?usp=sharing',
     previewImage: Project10,
     type:"Power BI",
