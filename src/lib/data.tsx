@@ -146,7 +146,7 @@ export const EXPERIENCES: ExperienceDetails[] = [
     logoAlt: ' NeuronetiX logo',
     position: ' Data Analyst Intern',
     startDate: new Date(2024, 7),
-    currentlyWorkHere: new Date(2024, 10),
+    endDate: new Date(2024, 10),
     summary: [
       'Using Python libraries(Pandas, NumPy, Matplotlib and Seaborn) to analyze data sets, extract insights, and prepare reports for decision-making purposes.',
       'Creating interactive dashboards and visualizations in Excel and Power BI to present data trends and insights effectively.',
