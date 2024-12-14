@@ -27,7 +27,7 @@ I am a data analyst who graduated with a bachelor&apos;s degree in Accounting, I
             Professional Experience :
             </p>
             <p className='text-center my-2'>
-            Currently: Interning as Data Analyst with NeuronetiX
+            Currently: Data Analyst Freelancer
             </p>
           </div>
           <div className="flex flex-col gap-2">
