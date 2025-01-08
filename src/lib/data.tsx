@@ -27,6 +27,7 @@ import Project6 from '/public/images/project6.png';
 import Project8 from '/public/images/project8.png';
 import Project9 from '/public/images/project9.png';
 import Project10 from '/public/images/project10.png';
+import Project11 from '/public/images/project11.png';
 
 import cer1 from '/public/images/5956076057444598627.jpg';
 import cer2 from '/public/images/5956076057444598628.jpg';
@@ -305,6 +306,18 @@ export const PROJECTS: ProjectDetails[] = [
       'DAX',
       'Data Modelling',
       'Data Visualization',
+      ],
+  },
+  {
+    name: 'Movies Recommendation App',
+    description:'After Scraping the best 300 movies, I made a recommendation system app. The program is a Python (GUI) application built with the Tkinter library to recommend movies based on the user's mood. Movie data is loaded from a CSV file, and each movie's description is analyzed to identify its mood using predefined keywords. The app features a simple graphical interface where users can select their mood and view suggested movies along with details (story, cast, year, rating). It provides a personalized experience tailored to the user's current emotional state. The program leverages libraries like Pandas for data processing and ctypes for customizing the app's icon.',
+    url: 'https://drive.google.com/file/d/1TWgnQseqWdu4_psKyPSHgqxjAquH5_bY/view?usp=drive_link',
+    previewImage: Project11,
+    type:"Python",
+    technologies: [
+      'Python',
+      'GUI',
+      'Web Scraping',
     ],
   },
   {
