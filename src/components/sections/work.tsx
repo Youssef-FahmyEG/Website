@@ -33,6 +33,7 @@ const WorkSection = () => {
           <option value="Power BI">Power BI</option>
           <option value="Looker">Looker</option>
           <option value="Tableau">Tableau</option>
+          <option value="Tableau">Python</option>
           <option value="Excel">Excel</option>
           {/* Add more options as needed */}
         </select>
