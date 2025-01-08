@@ -317,7 +317,7 @@ export const PROJECTS: ProjectDetails[] = [
     technologies: [
       'Python',
       'GUI',
-      'Web Scraping',
+      'Webscraping',
     ],
   },
   {
