@@ -310,7 +310,7 @@ export const PROJECTS: ProjectDetails[] = [
   },
   {
     name: 'Movies Recommendation App',
-    description:'After Scraping the best 300 movies, I made a recommendation system app. The program is a Python (GUI) application built with the Tkinter library to recommend movies based on the user's mood. Movie data is loaded from a CSV file, and each movie's description is analyzed to identify its mood using predefined keywords. The app features a simple graphical interface where users can select their mood and view suggested movies along with details (story, cast, year, rating). It provides a personalized experience tailored to the user's current emotional state. The program leverages libraries like Pandas for data processing and ctypes for customizing the app's icon.',
+    description:'After Scraping the best 300 movies, I made a recommendation system app. The program is a Python (GUI) application built with the Tkinter library to recommend movies based on the user\'s mood. Movie data is loaded from a CSV file, and each movie\'s description is analyzed to identify its mood using predefined keywords. The app features a simple graphical interface where users can select their mood and view suggested movies along with details (story, cast, year, rating). It provides a personalized experience tailored to the user\'s current emotional state.',
     url: 'https://drive.google.com/file/d/1TWgnQseqWdu4_psKyPSHgqxjAquH5_bY/view?usp=drive_link',
     previewImage: Project11,
     type:"Python",
