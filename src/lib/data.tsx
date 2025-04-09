@@ -28,6 +28,8 @@ import Project8 from '/public/images/project8.png';
 import Project9 from '/public/images/project9.png';
 import Project10 from '/public/images/project10.png';
 import Project11 from '/public/images/project11.png';
+import Project12 from '/public/images/project12.png';
+
 
 import cer1 from '/public/images/5956076057444598627.jpg';
 import cer2 from '/public/images/5956076057444598628.jpg';
@@ -318,6 +320,19 @@ export const PROJECTS: ProjectDetails[] = [
       'Python',
       'GUI',
       'Webscraping',
+    ],
+  },
+  {
+    name: 'Video Games Analysis',
+    description:'To perform an in-depth exploratory data analysis (EDA) on a video game dataset and answer 25 business-related analytical questions regarding games, platforms, sales, scores, and publishers. Recommendations are Focus on high-performing genres: Action, Sports, Racing, RPGs, Target strong regions: North America & Europe for sales; Japan for RPGs and Monitor trends: Stay up-to-date with mobile, cloud, and VR/AR gaming shifts'.
+,
+    url: 'https://drive.google.com/file/d/1pD4xCGlOD_unKnns9A3ZAmKPTqZDxn-b/view?usp=sharing',
+    previewImage: Project12,
+    type:"Python",
+    technologies: [
+      'Python',
+      'Pandas',
+      'Matplotlib',
     ],
   },
   {
