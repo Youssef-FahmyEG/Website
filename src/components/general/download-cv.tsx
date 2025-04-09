@@ -5,7 +5,7 @@ import Button from '@/components/general/button';
 const DownloadCV = () => {
   const handleDownload = () => {
     const link = document.createElement('a');
-    link.href = 'https://drive.google.com/file/d/1edWG94wCRFbcw7Dk7wZpbUyn2O5Nq4Zx/view?usp=sharing';
+    link.href = 'https://drive.google.com/file/d/1LWLtZ_jOMhBwy5tChOklvV9f2pEVkVpV/view?usp=sharing';
     link.download = 'Youssef_Hosny_CV.pdf'; // Name of the file when downloaded
     document.body.appendChild(link);
     link.click();
