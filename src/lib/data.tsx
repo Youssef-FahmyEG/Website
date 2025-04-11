@@ -29,6 +29,7 @@ import Project9 from '/public/images/project9.png';
 import Project10 from '/public/images/project10.png';
 import Project11 from '/public/images/project11.png';
 import Project12 from '/public/images/project12.png';
+import Project13 from '/public/images/project13.png';
 
 
 import cer1 from '/public/images/5956076057444598627.jpg';
@@ -332,6 +333,18 @@ export const PROJECTS: ProjectDetails[] = [
       'Python',
       'Pandas',
       'Matplotlib',
+    ],
+  },
+  {
+    name: 'University Student Analysis Using Streamlit',
+    description:'The application is an interactive university dashboard built using Streamlit, offering detailed student analytics and performance visualization. It reads student data from a CSV file and allows filtering by gender, department, and age group. The dashboard is organized into four tabs: basic statistics, department overview, performance insights, and score correlation. Each tab displays data using customized visuals including styled metric cards, bar charts, pie charts, scatter plots, and correlation matrices. Key statistics such as attendance, quizzes scores, final exams, and total scores are summarized and visualized per department and student category. The dashboard also analyzes extracurricular participation, parent education impact, and internet access at home. Overall, it provides a visually appealing and data-rich interface to explore and understand student performance patterns.',
+    url: 'https://drive.google.com/file/d/1R5oae0sB_RkwY4jh4bkp6THYuf64X0FG/view?usp=sharing',
+    previewImage: Project13,
+    type:"Python",
+    technologies: [
+      'Python',
+      'Streamlit',
+      'Plotly',
     ],
   },
   {
