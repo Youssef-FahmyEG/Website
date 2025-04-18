@@ -30,6 +30,7 @@ import Project10 from '/public/images/project10.png';
 import Project11 from '/public/images/project11.png';
 import Project12 from '/public/images/project12.png';
 import Project13 from '/public/images/project13.png';
+import Project14 from '/public/images/project14.png';
 
 
 import cer1 from '/public/images/5956076057444598627.jpg';
@@ -83,7 +84,7 @@ export const SOCIAL_LINKS = [
   },
   {
     icon: Linkedin,
-    url: 'https://www.linkedin.com/in/youssefhosny',
+    url: 'www.linkedin.com/in/yousseffahmy-data-analyst',
   },
 ];
 
@@ -348,17 +349,28 @@ export const PROJECTS: ProjectDetails[] = [
     ],
   },
   {
-    name: 'Restaurant Orders Dashboard',
-    description:'The dashboard provides a detailed analysis of a restaurant\'s total sales, segmented by product type, time, region, payment method, and cuisine. The total sales amount to $160,281, with Basic products contributing 64.04% ($102,650) and Premium products making up 35.96% ($57,631). Sales performance is categorized by weekdays and weekends, highlighting the highest sales for specific items like Dolo and White Sauce, which indicate customer preferences. Payment methods are also analyzed, showing that 37% of sales are through credit cards on delivery ($45,674), 34% are cash on delivery ($54,581), and 28% via direct credit card payment ($60,026). The dashboard further breaks down total sales by cuisine type, with European cuisine accounting for 31.52%, followed by Middle Eastern at 29.87%, Arabian at 18.95%, Asian at 13.47%, and African at 7.12%, reflecting the diverse culinary preferences of customers. Regional sales distribution is presented on a world map, where Europe leads with the highest sales percentages over multiple years, while Africa shows a significant decrease in 2018. The restaurant has achieved 65% of its sales target, indicating room for growth and opportunities to enhance performance. Total sales by rush hours reveal peak times during the morning and evening, particularly around 11 AM and 8 PM, suggesting strategic planning for resource allocation during these periods. The dashboard also presents yearly sales trends from 2014 to 2018, showing fluctuating performance across different regions, and emphasizing the need for region-specific strategies. Additional key metrics include a total quantity of 1,449 orders, an average delivery time of 30.20 minutes, and an average customer rating of 3, indicating a moderate level of customer satisfaction that could be improved. The visual representation of data, such as bar charts, pie charts, and geographical maps, provides a comprehensive overview for strategic decision-making.',
-    url: 'https://drive.google.com/file/d/1idH008b3QdtIsyZ-opmuOqeYR1CB34mM/view?usp=drive_link',
-    previewImage: Project8,
-    type:"Excel",
+    name: 'University Student Analysis Using Streamlit',
+    description:'The application is an interactive university dashboard built using Streamlit, offering detailed student analytics and performance visualization. It reads student data from a CSV file and allows filtering by gender, department, and age group. The dashboard is organized into four tabs: basic statistics, department overview, performance insights, and score correlation. Each tab displays data using customized visuals including styled metric cards, bar charts, pie charts, scatter plots, and correlation matrices. Key statistics such as attendance, quizzes scores, final exams, and total scores are summarized and visualized per department and student category. The dashboard also analyzes extracurricular participation, parent education impact, and internet access at home. Overall, it provides a visually appealing and data-rich interface to explore and understand student performance patterns.',
+    url: 'https://drive.google.com/file/d/1R5oae0sB_RkwY4jh4bkp6THYuf64X0FG/view?usp=sharing',
+    previewImage: Project13,
+    type:"Python",
     technologies: [
+      'Python',
+      'Streamlit',
+      'Plotly',
+    ],
+  },
+  {
+    name: 'Movies Analysis',
+    description:'This project explores the Sakila database using MySQL Workbench to analyze and visualize key movie rental metrics. It includes 25 SQL queries addressing customer behavior, film popularity, rental trends, and revenue insights. The dashboard presents data via charts and tables, aiding strategic decisions like boosting top categories, targeting peak rental days, and re-engaging inactive customers for better business outcomes.',
+    url: 'https://drive.google.com/file/d/1P7Y4ecJI_MZkbOiRskX8Zu21c3T6L8JB/view?usp=sharing',
+    previewImage: Project14,
+    type:"SQL",
+    technologies: [
+      'MYSQL',
+      'Data Analysis',
       'Microsoft Excel',
-      'Power Query',
-      'PivotTable',
-      'Power Pivot',
-      'DAX',
+      'Microsoft PowerPoint',
       'Data Visualization',
     ],
   },
