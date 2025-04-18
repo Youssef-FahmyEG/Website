@@ -34,6 +34,7 @@ const WorkSection = () => {
           <option value="Looker">Looker</option>
           <option value="Tableau">Tableau</option>
           <option value="Python">Python</option>
+          <option value="SQL">Excel</option>
           <option value="Excel">Excel</option>
           {/* Add more options as needed */}
         </select>
