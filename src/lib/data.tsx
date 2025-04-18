@@ -84,7 +84,7 @@ export const SOCIAL_LINKS = [
   },
   {
     icon: Linkedin,
-    url: 'www.linkedin.com/in/yousseffahmy-data-analyst',
+    url: 'https://www.linkedin.com/in/yousseffahmy-data-analyst',
   },
 ];
 
