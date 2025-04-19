@@ -349,18 +349,6 @@ export const PROJECTS: ProjectDetails[] = [
     ],
   },
   {
-    name: 'University Student Analysis Using Streamlit',
-    description:'The application is an interactive university dashboard built using Streamlit, offering detailed student analytics and performance visualization. It reads student data from a CSV file and allows filtering by gender, department, and age group. The dashboard is organized into four tabs: basic statistics, department overview, performance insights, and score correlation. Each tab displays data using customized visuals including styled metric cards, bar charts, pie charts, scatter plots, and correlation matrices. Key statistics such as attendance, quizzes scores, final exams, and total scores are summarized and visualized per department and student category. The dashboard also analyzes extracurricular participation, parent education impact, and internet access at home. Overall, it provides a visually appealing and data-rich interface to explore and understand student performance patterns.',
-    url: 'https://drive.google.com/file/d/1R5oae0sB_RkwY4jh4bkp6THYuf64X0FG/view?usp=sharing',
-    previewImage: Project13,
-    type:"Python",
-    technologies: [
-      'Python',
-      'Streamlit',
-      'Plotly',
-    ],
-  },
-  {
     name: 'Movies Analysis',
     description:'This project explores the Sakila database using MySQL Workbench to analyze and visualize key movie rental metrics. It includes 25 SQL queries addressing customer behavior, film popularity, rental trends, and revenue insights. The dashboard presents data via charts and tables, aiding strategic decisions like boosting top categories, targeting peak rental days, and re-engaging inactive customers for better business outcomes.',
     url: 'https://drive.google.com/file/d/1P7Y4ecJI_MZkbOiRskX8Zu21c3T6L8JB/view?usp=sharing',
