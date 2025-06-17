@@ -31,6 +31,8 @@ import Project11 from '/public/images/project11.png';
 import Project12 from '/public/images/project12.png';
 import Project13 from '/public/images/project13.png';
 import Project14 from '/public/images/project14.png';
+import Project15 from '/public/images/project15.png';
+
 
 
 import cer1 from '/public/images/5956076057444598627.jpg';
