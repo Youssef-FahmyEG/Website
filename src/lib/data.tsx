@@ -359,10 +359,11 @@ export const PROJECTS: ProjectDetails[] = [
     previewImage: Project15,
     type:"Tableau",
     technologies: [
-      'Python',
-      'Pandas',
-      'Plotly',
-      'Streamlit',
+      'Tableau',
+      'LOD',
+      'Data Cleaning',
+      'Excel',
+      'Data Visualization',
       ],
   },
   {
@@ -372,8 +373,10 @@ export const PROJECTS: ProjectDetails[] = [
     previewImage: Project16,
     type:"Python",
     technologies: [
-      'Tableau',
-      'LOD',
+      'Python',
+      'Pandas',
+      'Ploty',
+      'Streamlit'
       'Data Cleaning',
       'Data Visualization',
       ],
