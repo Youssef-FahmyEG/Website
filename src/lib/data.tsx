@@ -361,8 +361,8 @@ export const PROJECTS: ProjectDetails[] = [
     technologies: [
       'Tableau',
       'LOD',
-      'Data Cleaning',
       'Excel',
+      'Data Cleaning',
       'Data Visualization',
       ],
   },
@@ -376,7 +376,7 @@ export const PROJECTS: ProjectDetails[] = [
       'Python',
       'Pandas',
       'Ploty',
-      'Streamlit'
+      'Streamlit',
       'Data Cleaning',
       'Data Visualization',
       ],
