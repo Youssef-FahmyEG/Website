@@ -351,6 +351,19 @@ export const PROJECTS: ProjectDetails[] = [
     ],
   },
   {
+    name: 'Taco Dashboard',
+    description:'This Taco dashboard showcases key sales, tips, and delivery metrics for a taco business. Total sales reached **\$207,248** from **30,000** orders, with **Chicken Taco** leading as the top-selling item at **\$46,598**. The average tip per order is **\$1.81**. Key insights include 5 toppings generating **52,950 units** in sales, an average delivery duration of **50.93 minutes**, **21,750** weekend orders, and **56.03%** of customers preferring large tacos. **Texas** had the highest sales at **\$80,722**, followed by **California** with **\$61,981**.',
+    url: 'https://drive.google.com/file/d/1KOQ43DUblgNnKWmq8JXaKziaZ9qNVuJE/view?usp=sharing',
+    previewImage: Project15,
+    type:"Tableau",
+    technologies: [
+      'Tableau',
+      'LOD',
+      'Data Cleaning',
+      'Data Visualization',
+      ],
+  },
+  {
     name: 'Movies Analysis',
     description:'This project explores the Sakila database using MySQL Workbench to analyze and visualize key movie rental metrics. It includes 25 SQL queries addressing customer behavior, film popularity, rental trends, and revenue insights. The dashboard presents data via charts and tables, aiding strategic decisions like boosting top categories, targeting peak rental days, and re-engaging inactive customers for better business outcomes.',
     url: 'https://drive.google.com/file/d/1P7Y4ecJI_MZkbOiRskX8Zu21c3T6L8JB/view?usp=sharing',
