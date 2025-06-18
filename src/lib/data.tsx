@@ -32,6 +32,7 @@ import Project12 from '/public/images/project12.png';
 import Project13 from '/public/images/project13.png';
 import Project14 from '/public/images/project14.png';
 import Project15 from '/public/images/project15.png';
+import Project16 from '/public/images/project16.png';
 
 
 
@@ -346,8 +347,9 @@ export const PROJECTS: ProjectDetails[] = [
     type:"Python",
     technologies: [
       'Python',
-      'Streamlit',
+      'Pandas',
       'Plotly',
+      'Streamlit',
     ],
   },
   {
@@ -356,6 +358,19 @@ export const PROJECTS: ProjectDetails[] = [
     url: 'https://drive.google.com/file/d/1KOQ43DUblgNnKWmq8JXaKziaZ9qNVuJE/view?usp=sharing',
     previewImage: Project15,
     type:"Tableau",
+    technologies: [
+      'Python',
+      'Pandas',
+      'Plotly',
+      'Streamlit',
+      ],
+  },
+  {
+    name: 'Adult Income Prediction',
+    description:'The Adult Dashboard presents a comprehensive analysis of a dataset containing nearly 48,842 adult individuals to predict causes that make adults to earn more than 50K $ or less, focusing on demographics, income, and work patterns across the US. The average age in the dataset is around 38 to 39 years, with most individuals being younger than 48. Men tend to work approximately six hours more per week than women, etc',
+    url: 'https://drive.google.com/file/d/1YuLysPh3k-sQ_wVIcuRV2OoVmSCMXEpI/view?usp=sharing',
+    previewImage: Project16,
+    type:"Python",
     technologies: [
       'Tableau',
       'LOD',
