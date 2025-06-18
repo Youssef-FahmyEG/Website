@@ -352,7 +352,7 @@ export const PROJECTS: ProjectDetails[] = [
   },
   {
     name: 'Taco Dashboard',
-    description:'This Taco dashboard showcases key sales, tips, and delivery metrics for a taco business. Total sales reached **\$207,248** from **30,000** orders, with **Chicken Taco** leading as the top-selling item at **\$46,598**. The average tip per order is **\$1.81**. Key insights include 5 toppings generating **52,950 units** in sales, an average delivery duration of **50.93 minutes**, **21,750** weekend orders, and **56.03%** of customers preferring large tacos. **Texas** had the highest sales at **\$80,722**, followed by **California** with **\$61,981**.',
+    description:'This Taco dashboard showcases key sales, tips, and delivery metrics for a taco business. Total sales reached \$207,248 from 30,000 orders, with Chicken Taco leading as the top-selling item at \$46,598. The average tip per order is \$1.81. Key insights include 5 toppings generating 52,950 units in sales, an average delivery duration of 50.93 minutes, 21,750 weekend orders, and 56.03% of customers preferring large tacos. Texas had the highest sales at \$80,722, followed by California with \$61,981.',
     url: 'https://drive.google.com/file/d/1KOQ43DUblgNnKWmq8JXaKziaZ9qNVuJE/view?usp=sharing',
     previewImage: Project15,
     type:"Tableau",
