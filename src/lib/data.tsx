@@ -43,14 +43,10 @@ import cer4 from '/public/images/5956076057444598630.jpg';
 import cer5 from '/public/images/5956076057444598631.jpg';
 import cer6 from '/public/images/5956076057444598632.jpg';
 import cer7 from '/public/images/5956076057444598633.jpg';
-import cer8 from '/public/images/Microsoft Certified_ Power BI Data Analyst Associate PL-300.jpg
-.jpg';
-import cer9 from '/public/images/CAI_DAT5_G1_9087.jpg
-.jpg';
-import cer10 from '/public/images/CAI_DAT5_G1_9087 (1).jpg
-';
-  import cer11 from '/public/images/Epsilon AI Part 2.jpg
-';
+import cer8 from '/public/images/5956076057444598635.jpg';
+import cer9 from '/public/images/5956076057444598637.jpg';
+import cer10 from '/public/images/5956076057444598636.jpg';
+import cer11 from '/public/images/5956076057444598634.jpg';
 
 import {
   ExperienceDetails,
