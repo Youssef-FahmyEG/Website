@@ -37,6 +37,7 @@ import Project16 from '/public/images/project16.png';
 
 
 import cer1 from '/public/images/5956076057444598627.jpg';
+import cer9 from '/public/images/5956076057444598637.jpg';
 import cer2 from '/public/images/5956076057444598628.jpg';
 import cer3 from '/public/images/5956076057444598629.jpg';
 import cer4 from '/public/images/5956076057444598630.jpg';
@@ -44,7 +45,6 @@ import cer5 from '/public/images/5956076057444598631.jpg';
 import cer6 from '/public/images/5956076057444598632.jpg';
 import cer7 from '/public/images/5956076057444598633.jpg';
 import cer8 from '/public/images/5956076057444598635.jpg';
-import cer9 from '/public/images/5956076057444598637.jpg';
 import cer10 from '/public/images/5956076057444598636.jpg';
 import cer11 from '/public/images/5956076057444598634.jpg';
 
@@ -407,7 +407,7 @@ export const TESTIMONIALS: TestimonialDetails[] = [
    },
   {
     
-    personAvatar: cer2,
+    personAvatar: cer9,
     },
   {
    
@@ -435,7 +435,7 @@ export const TESTIMONIALS: TestimonialDetails[] = [
     },
   {
     
-    personAvatar: cer9,
+    personAvatar: cer2,
     },{
     
     personAvatar: cer10,
