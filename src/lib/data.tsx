@@ -429,4 +429,19 @@ export const TESTIMONIALS: TestimonialDetails[] = [
     
     personAvatar: cer7,
     },
+  {
+    
+    personAvatar: cer8,
+    },
+  {
+    
+    personAvatar: cer9,
+    },{
+    
+    personAvatar: cer10,
+    },
+  {
+    
+    personAvatar: cer11,
+    },
 ];
